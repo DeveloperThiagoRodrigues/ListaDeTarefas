@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# ListaDeTarefas
+=======
 
 # ✅ **To-Do List App - React + Styled Components**  
 
@@ -61,9 +64,9 @@ A aplicação estará disponível em:
 ---
 
 ## 📸 **Demonstração**
-![Captura de Tela](./Captura%20de%20tela%202025-08-29%20204738.png)  
-![Captura de Tela](./Captura%20de%20tela%202025-08-29%20204752.png)  
-![Captura de Tela](./Captura%20de%20tela%202025-08-29%20204808.png)  
+![Captura de Tela](/Captura%20de%20tela%202025-08-29%20204738.png.png)  
+![Captura de Tela](./Captura%20de%20tela%202025-08-29%20204752.png.png)  
+![Captura de Tela](./Captura%20de%20tela%202025-08-29%20204808.png.png)  
 
 ---
 
@@ -75,3 +78,4 @@ A aplicação estará disponível em:
 ---
 
 💡 *Se gostou deste projeto, deixe uma ⭐ no repositório!*  
+>>>>>>> 6016ce7 (Lista-de-Tarefas)
