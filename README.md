@@ -46,7 +46,7 @@ Clone este repositório e siga os passos:
 
 ```bash
 # Clone o projeto
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/DeveloperThiagoRodrigues/ListaDeTarefas
 
 # Acesse a pasta do projeto
 cd nome-do-repositorio
@@ -79,3 +79,4 @@ A aplicação estará disponível em:
 
 💡 *Se gostou deste projeto, deixe uma ⭐ no repositório!*  
 >>>>>>> 6016ce7 (Lista-de-Tarefas)
+
